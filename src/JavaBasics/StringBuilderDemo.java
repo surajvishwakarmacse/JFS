@@ -5,5 +5,6 @@ public class StringBuilderDemo {
         StringBuilder sb = new StringBuilder("Welcome to ");
         sb.append("JFS");
         System.out.println(sb);
+        System.out.println();
     }
 }
