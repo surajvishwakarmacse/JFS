@@ -4,7 +4,7 @@ class MyProtectedClass
 {
     protected int a=199;
     protected void display()
-    {
+    { 
         System.out.println("Protected Modifier");
     }
 }
